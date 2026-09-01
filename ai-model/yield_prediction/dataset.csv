@@ -1,0 +1,16 @@
+crop,area,soil_type,ph,N,P,K,rainfall,temperature,humidity,season,yield_per_acre
+paddy,2,loamy,6.5,50,20,20,200,25,80,kharif,2.4
+paddy,1,clay,6.8,60,25,25,220,26,82,kharif,2.6
+sugarcane,3,black,7.2,110,30,45,150,28,70,all season,45.0
+banana,1.5,alluvial,6.2,85,25,120,180,27,85,all season,20.0
+cotton,2,black,7.5,40,20,20,85,26,75,kharif,1.3
+groundnut,1,red,5.8,10,20,30,90,25,70,kharif,1.2
+maize,2,loamy,6.5,55,25,20,110,24,65,rabi,2.8
+turmeric,1,loamy,6.0,60,25,40,160,26,80,all season,10.0
+tapioca,2,laterite,5.5,36,24,72,130,27,78,all season,14.0
+coconut,5,sandy,6.5,45,25,90,200,28,90,all season,5.0
+paddy,3,alluvial,7.0,70,30,30,250,24,85,kharif,2.8
+sugarcane,5,clay,7.0,120,35,50,160,29,72,all season,48.0
+banana,2,loamy,6.0,90,30,130,190,26,82,all season,22.0
+cotton,4,black,7.4,45,22,25,95,27,72,kharif,1.4
+maize,3,loamy,6.7,60,28,22,120,25,68,rabi,3.0
